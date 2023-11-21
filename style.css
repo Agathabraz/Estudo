@@ -1,0 +1,64 @@
+body {
+    
+ 
+font-family: Arial, sans-serif;
+    
+  
+display: flex;
+    
+    align-
+
+ 
+align-items: center;
+    
+    just
+
+  
+justify-content: center;
+    
+    heigh
+height: 100vh;
+    
+    mar
+margin: 0;
+}
+
+.container {
+    
+    text-
+
+ 
+text-align: center;
+}
+
+input {
+    
+    pad
+padding: 8px;
+    
+   
+margin-right: 8px;
+}
+
+
+}
+
+bu
+button {
+    
+    pa
+padding: 8px;
+}
+
+ul {
+    
+    list-s
+
+    
+list-style-type: none;
+    
+    paddin
+
+   
+padding: 0;
+}
